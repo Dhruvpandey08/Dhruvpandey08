@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Student</h3>
 
 
--🔭 I’m currently Studying in VIT University
+-🔭 I’m currently Studying in Vellore Institute of Technology
 
 
 

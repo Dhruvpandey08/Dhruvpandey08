@@ -7,7 +7,7 @@
 
 -📚 I’m currently Studying in Vellore Institute of Technology
 
--👨‍💻 Contributer @ GWOC'21,Hacktoberfest 2021
+-👨‍💻 Contributor @ GWOC'21,Hacktoberfest 2021
 
 
 

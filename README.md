@@ -6,7 +6,7 @@
 
 
 
--🌱 I’m currently learning Python, HTMl & CSS
+-🌱 I’m currently learning Python, HTML & CSS
 
 -📫 Reach me at **dhruvpandey928@gmail.com**
 <h3 align="Center">Connect with me:

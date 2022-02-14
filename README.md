@@ -11,7 +11,7 @@
 
 
 
--🌱 I’m currently learning c/c++, HTML, CSS & JavaScript
+-🌱 I’m currently learning C/C++, HTML, CSS & JavaScript
 
 -📫 Reach me at **dhruvpandey928@gmail.com**
 

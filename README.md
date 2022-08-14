@@ -19,7 +19,7 @@
 
 
 ### Connect with me 📝
-[<img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt='github' height='40'>](https://github.com/dhruvpandey08)[<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40' hspace='25'>](https://www.linkedin.com/in/dhruvpandey08)[<img src='https://en.wikipedia.org/wiki/HackerRank' alt='Hackerrank' height='40' hspace='25'>](https://www.hackerrank.com/dhruvpandey928)
+[<img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt='github' height='40'>](https://github.com/dhruvpandey08)[<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40' hspace='25'>](https://www.linkedin.com/in/dhruvpandey08)[<img src='https://icon-icons.com/icon/hackerrank-logo/145206' alt='Hackerrank' height='40' hspace='25'>](https://www.hackerrank.com/dhruvpandey928)
 
 ---
 

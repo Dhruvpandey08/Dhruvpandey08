@@ -11,7 +11,7 @@
 
 
 
--🌱 Programming Languages C/C++, HTML, CSS & JavaScript
+-🌱 Programming Languages - C/C++, HTML, CSS & JavaScript
 
 -📫 Reach me at **dhruvpandey928@gmail.com**
 

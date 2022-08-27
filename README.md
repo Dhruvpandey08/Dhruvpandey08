@@ -8,11 +8,11 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 
--📚 I’m currently Studying in Vellore Institute of Technology
+- 📚 I’m currently Studying in Vellore Institute of Technology
 
--👨‍💻 Contributor @ GWOC'21,Hacktoberfest 2021
+- 👨‍💻 Contributor @ GWOC'21,Hacktoberfest 2021
 
--📫 Reach me at **dhruvpandey928@gmail.com**
+- 📫 Reach me at **dhruvpandey928@gmail.com**
 
 ---
 

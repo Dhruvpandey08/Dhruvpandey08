@@ -1,6 +1,8 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Dhruv </h1>
+![header_](https://user-images.githubusercontent.com/87525399/187025748-fb4e448e-e70d-43d0-bd49-78f4040debc9.png)
 
-## I'm a Computer Science and Engineering Student 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Dhruv </h1>
+
+<h3 align="center">I'm a Computer Science and Engineering Student </h3>
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">

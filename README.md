@@ -31,7 +31,6 @@
 -----
 
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars)  
-<img src="https://activity-graph.herokuapp.com/graph?username=Dhruvpandey08&theme=rogue">
 
 
 

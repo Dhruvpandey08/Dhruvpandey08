@@ -4,11 +4,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Dhruv </h1>
 <h3 align="center">I'm a Computer Science and Engineering Student </h3>
 
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-- 📚 I’m currently Studying in Vellore Institute of Technology
+- 📚 I’m studying in Vellore Institute of Technology
 
-- 👨‍💻 Contributor @ GWOC'21,Hacktoberfest 2021
+- 👯 I’m looking to collaborate on HTML5, CSS3 and JavaScript
+
+- 👨‍💻 Contributor @ GWOC'21, GSSOC'22
 
 - 📫 Reach me at **dhruvpandey928@gmail.com**
 

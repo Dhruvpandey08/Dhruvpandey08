@@ -37,4 +37,4 @@
 
 -----
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars)  <img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpandey08&layout=compact&show_icons=true&theme=radical" />
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars) <img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpandey08&layout=compact&show_icons=true&theme=radical" />

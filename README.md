@@ -32,6 +32,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
------
+---
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars)<img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpandey08&layout=compact&show_icons=true&theme=radical"/>
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars) <img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpandey08&layout=compact&show_icons=true&theme=radical"/>

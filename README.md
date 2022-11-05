@@ -34,5 +34,5 @@
 
 ---
 
-![Dhruv's GitHub stats](https://github-readme-stats-dhruvpandey08.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars)
-![Top Langs](https://github-readme-stats-dhruvpandey08.vercel.app/api/top-langs/?username=dhruvpandey08&layout=compact&show_icons=true&theme=radical)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpandey08&layout=compact&show_icons=true&theme=radical)

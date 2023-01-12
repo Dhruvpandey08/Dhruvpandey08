@@ -1,7 +1,7 @@
 
 ![header_](https://user-images.githubusercontent.com/87525399/187025748-fb4e448e-e70d-43d0-bd49-78f4040debc9.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Dhruv </h1>
+<h1 align="center">Hi 👋, I'm Dhruv </h1>
 <h3 align="center">I'm a Computer Science and Engineering Student </h3>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on HTML5, CSS3 and JavaScript
 
-- 👨‍💻 Contributor @ GWOC'21, GSSOC'22
+- 👨‍💻 Contributor @ GWOC'21, GSSOC'22, Hacktoberfest'21,22
 
 - 📫 Reach me at **dhruvpandey928@gmail.com**
 
@@ -34,5 +34,5 @@
 
 ---
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpandey08&layout=compact&show_icons=true&theme=radical)
+![Dhruv's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvpandey08&layout=compact&show_icons=true&theme=radical)

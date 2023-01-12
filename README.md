@@ -1,4 +1,3 @@
-
 ![header_](https://user-images.githubusercontent.com/87525399/187025748-fb4e448e-e70d-43d0-bd49-78f4040debc9.png)
 
 <h1 align="center">Hi 👋, I'm Dhruv </h1>
@@ -33,6 +32,9 @@
 </p>
 
 ---
-
-![Dhruv's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvpandey08&layout=compact&show_icons=true&theme=radical)
+<a href="https://github.com/Dhruvpandey08/github-readme-stats">
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars"/>
+</a>
+<a href="https://github.com/Dhruvpandey08/github-readme-stats">
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvpandey08&layout=compact&show_icons=true&theme=radical"/>
+</a>

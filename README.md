@@ -32,9 +32,5 @@
 </p>
 
 ---
-<a href="https://github.com/Dhruvpandey08/github-readme-stats">
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars"/>
-</a>
-<a href="https://github.com/Dhruvpandey08/github-readme-stats">
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvpandey08&layout=compact&show_icons=true&theme=radical"/>
-</a>
+[![Dhruv's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/Dhruvpandey08/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvpandey08&layout=compact&show_icons=true&theme=radical)](https://github.com/Dhruvpandey08/github-readme-stats)

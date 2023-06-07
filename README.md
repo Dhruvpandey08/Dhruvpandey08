@@ -7,7 +7,7 @@
 
 - 📚 I’m studying in Vellore Institute of Technology
 
-- 👯 I’m looking to collaborate on HTML5, CSS3 and JavaScript
+- 👯 I’m looking to collaborate on MERN Stack
 
 - 👨‍💻 Contributor @ GWOC'21, GSSOC'22, Hacktoberfest'21,22
 

@@ -45,7 +45,13 @@
 
 ---
 
+<a href = "https://github.com/Dhruvpandey08/github-readme-stats">
+<img height = 150  align = "center" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=highcontrast&hide=stars"/>
+</a>
+<a href = "https://github.com/Dhruvpandey08/github-readme-stats">
+<img height = 150  align = "center" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvpandey08&langs_count=8&layout=compact&show_icons=true&theme=highcontrast&card_width=350"/>
+</a>
 
-[![Dhruv's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/Dhruvpandey08/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvpandey08&langs_count=8&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/Dhruvpandey08/github-readme-stats)
+
+
 ![Dhruv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvpandey08&theme=highcontrast)

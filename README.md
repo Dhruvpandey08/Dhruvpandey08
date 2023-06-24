@@ -51,8 +51,7 @@
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvpandey08&langs_count=8&layout=compact&show_icons=true&theme=highcontrast" />
-</div>
-
 &nbsp;
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhruvpandey08&theme=highcontrast)](https://git.io/streak-stats)
+&nbsp;
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvpandey08&theme=highcontrast" />
+</div>

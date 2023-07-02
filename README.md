@@ -1,6 +1,6 @@
 ![header_](https://user-images.githubusercontent.com/87525399/187025748-fb4e448e-e70d-43d0-bd49-78f4040debc9.png)
 
-<h1 align="center">Hi 👋, I'm Dhruv </h1>
+<h1 align="center">Hi 👋, I'm Dhruv Pandey</h1>
 <h3 align="center">I'm a Computer Science and Engineering Student </h3>
 
 

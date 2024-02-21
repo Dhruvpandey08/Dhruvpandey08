@@ -6,9 +6,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-- 📚 I’m studying in Vellore Institute of Technology
+- 📚 Currently studying in Vellore Institute of Technology
 
-- 👯 I’m looking to collaborate on MERN Stack
+- 👯 Exploring MERN Stack, AI/ML, Data Science
 
 - 👨‍💻 Contributor @ GWOC'21, GSSOC'22, Hacktoberfest'21,22
 

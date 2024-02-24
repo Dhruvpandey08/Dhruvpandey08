@@ -31,7 +31,6 @@
 
 ---
 
-
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvpandey08&show_icons=true&theme=highcontrast&hide=stars" />
 &nbsp;

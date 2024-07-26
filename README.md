@@ -8,7 +8,7 @@
 
 - 📚 Currently studying in Vellore Institute of Technology
 
-- 👯 Exploring MERN Stack, AI/ML, Data Science
+- 👯 Experience in MERN STACK
 
 - 👨‍💻 Contributor @ GWOC'21, GSSOC'22, Hacktoberfest'21,22
 

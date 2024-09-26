@@ -8,11 +8,11 @@
 
 - 📚 Currently studying in Vellore Institute of Technology
 
-- 👯 Experience in MERN STACK
+- 👯 Experience in MERN,MEAN STACK
 
-- 👨‍💻 Contributor @ GWOC'21, GSSOC'22, Hacktoberfest'21,22
+- 👨‍💻 Currently Learning SpringBoot
 
-- 📫 Reach me at **dhruvpandey928@gmail.com**
+- 📫 Contributor @ GWOC'21, GSSOC'22, Hacktoberfest'21,22
 
 ---
 

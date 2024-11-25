@@ -8,9 +8,9 @@
 
 - 📚 Currently studying in Vellore Institute of Technology
 
-- 👯 Experience in MERN,MEAN STACK
+- 👯 Experience in MERN, MEAN STACK
 
-- 👨‍💻 Currently Learning SpringBoot
+- 👨‍💻 Learning SpringBoot and Cloud Infra
 
 - 📫 Contributor @ GWOC'21, GSSOC'22, Hacktoberfest'21,22
 
